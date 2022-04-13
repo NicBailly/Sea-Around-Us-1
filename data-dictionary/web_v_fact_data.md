@@ -33,9 +33,9 @@ Catch weight by various dimensions.
 
 
 (1)	Area as intersection of the main area and the subarea.     
-(2)	Example, if marine layer = 1, then main_area_if is the foreign key to table web_EEZ,      
+(2)	Example, if marine layer = 1, then main_area_id is the foreign key to table web_EEZ.      
 (3)	Depends on the marine layer.     
-(4)	Note that the field names are different: Catch_*type*_id and catch_*status*.     
+(4)	Note that the field names are different: Catch\_**type**\_id and catch\_**status**.     
 (5)	Price that fishermen get (not the price that client pay in fish store).     
 (6)	Catch must be understood as the caught biomass in that context.     
 
